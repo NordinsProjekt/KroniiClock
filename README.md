@@ -1,0 +1,2 @@
+# KroniiClock
+Small java testproject
